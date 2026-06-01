@@ -1,2 +1,16 @@
-# consumer-behaviour-market-analysis
-A data-driven market research project analyzing online shopping behavior through a survey of 100+ respondents. The study explores purchasing patterns, customer preferences, and key decision factors. Insights were derived using Excel-based segmentation and visualized through Power BI dashboards to support business recommendations.
+# Consumer Behaviour in Online Shopping – Market Analysis
+
+## Objective
+To analyze online purchase behaviour and identify key decision drivers
+among 100+ respondents.
+
+## Tools Used
+Microsoft Excel, Power BI
+
+## Key Findings
+- Identified 3 primary purchase drivers: price, reviews, delivery speed
+- Conducted competitor benchmarking and market segmentation
+
+## Files
+Consumer behaviour market analysis.pdf – Full research report
+
